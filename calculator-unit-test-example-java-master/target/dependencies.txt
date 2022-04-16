@@ -1,0 +1,4 @@
+digraph "com.github.stokito:calculator-unit-test-example-java:jar:1.0-SNAPSHOT" { 
+	"com.github.stokito:calculator-unit-test-example-java:jar:1.0-SNAPSHOT" -> "junit:junit:jar:4.13.1:compile" ; 
+	"junit:junit:jar:4.13.1:compile" -> "org.hamcrest:hamcrest-core:jar:1.3:compile" ; 
+ } 
